@@ -1,0 +1,1 @@
+Nama Sekolah : <?php echo $namaSekolah ?>
